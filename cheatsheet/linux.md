@@ -19,12 +19,14 @@
 | passwd                       | Change your password
 | passwd username              | Changes the password of another user (must run as root)
 | man commandname              | Shows the built-in manual for the command.  Press q to exit
+| man -k subjorcmd             | Search for man pages
 | mkdir dirname                | Makes a directory named dirname
 | rm filename                  | Removes / deletes a single file (not a directory though)
 | rmdir dirname                | Removes a single directory (must be empty)
 | rm -rf dirname               | Deletes a file/directory recursively (all subdirectories) without asking / prompting (force). BE CAREFUL WITH THIS.
 | sudo command                 | Runs the command as root (if the current user has sudo privledges)
-| sudo bash                    | Create a root shell (don't need to sudo every root command / worry about passwords).  BE CAREFUL WITH THIS.
+| sudo -i                      | Create a root shell (don't need to sudo every root command / worry about passwords).  BE CAREFUL WITH THIS.
+| exit                         | Exit shell (exit root shell if you started a root shell)
 | apt install pkgname          | Install a package (Ubuntu / Debian systems)
 | apt remove pkgname           | Removes a package (Ubuntu / Debian systems)
 | ps aux                       | List all processes currenty running
@@ -35,6 +37,7 @@
 | find directory -name '*.mp3' | Will list any files in the directory that end in .mp3
 | dpkg-query -l                | Lists installed packages
 | apt search ftpd              | Lists available packages to install that have ftpd in their name
+| top                          | Lists of processes running / CPU usage.  htop similar but nicer, not usually installed by default
 
 # Pipes
 
