@@ -28,6 +28,7 @@
 | apt install pkgname          | Install a package (Ubuntu / Debian systems)
 | apt remove pkgname           | Removes a package (Ubuntu / Debian systems)
 | ps aux                       | List all processes currenty running
+| pstree                       | Tree view of running linux processes
 | netstat -lp                  | List all listening connections / show processes
 | lsof                         | List open files
 | file filename                | Will try to tell you what type of file something is
@@ -67,25 +68,65 @@ Common server applications that are very secure
 
 Common server applications you usually don't want
 
-* openssh-server: 
-* telnetd: Remote shell, lacks encryption
+* telnetd, rlogin, rsh: Remote shell access, lacks encryption
 * tftpd, vsftpd, pure-ftpd, proftpd: FTP servers
 * linuxvnc, tightvncserver, x11vnc: Remote desktop service, generally not considered secure
 * xrdp: Remote desktop service
-* samba
+* samba, nfs-common, nfs-kernel-server: File sharing
 * xinetd, inetd: Starts services on demand
+* finger: allows someone to query user info from system
+* sendmail: email transer (shouldn't be on user system)
+* apache, nginx: HTTP (web) servers, (shouldn't be on user system)
 
 # File sharing tools
 
 * transmission: Common torrent application
 * *torrent: Generally anything with torrent in the name
+* mldonkey, aMule, gnutella: Tools for P2P networking like in the 1990s
+* youtube-dl: Downloads videos from youtube
 
 # Hacking tools
 
+I've listed the following ones that I think you might see / common
+
 * *crack: Password cracking tools
 * john: Password crackign
-* ncaptools, pcaputils: Network sniffing
-* nmap: Network mapping
+* ncaptools, pcaputils, tcpdump: Network sniffing
 * wireshark: Network sniffing
+* nmap: Network mapping
+* hydra: Network logon cracker
 
+For a really complete list of tools, google debian forensics metapackage.  It has almost a hundred tools that might be
+considered hacking tools by the scoring engine.
+
+# Service control
+
+Systemd is what controls what is running on modern linux systems.  
+
+```
+systemctl list-units --type=service
+```
+
+Start, stop, restart:
+```
+systemctl start clamav-freshclam.service
+systemctl stop auditd.service
+systemctl restart clamav-freshclam.service
+```
+
+# Tools to install
+
+* clamav, clamtk: Antivirus
+* ufw, gufw: Firewall
+
+# Updating packages
+
+This could take a while depending on how out of data a system is.  You won't be able to install / remove packages
+while the updates are running, but you can generally do most other things.
+
+```
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+```
 
