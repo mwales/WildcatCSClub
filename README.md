@@ -1,12 +1,10 @@
-# WildcatCyberClub
+# WildcatCSClub
 
-Wildcat Cyber 
-
-Repository for artifacts for helping the WildCat Cyber Security Club
-
-## Artifacts to Collect
-
-* Checklists
 * Presentations
-* Write-ups
+* CTF writeups
+* Notes
+* Practice Programming Problems
+
+Repository for artifacts for helping the WildCat CS Club (formerly Cyber
+Security Club), now Computer Science Club.
 
