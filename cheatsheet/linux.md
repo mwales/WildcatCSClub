@@ -63,16 +63,15 @@ chmod 744 filename            # Set permission with octal (for rwx bits)
 
 | Command                      | Meaning     | What it does
 |------------------------------|-------------|----------------
-|
-| grep
-| 
+| grep                         | Global Regex | Finds lines containing a given string and outputs them
 | find                         | Find         | Find files.  Has insane amount of options
 | binwalk                      | Bin Walk     | Looks all through a file to find file signatures / hidden files.  Many false positives!
 | lsof                         | ls open files| List open files on the system
-| exif
-| strings
-| hexdump
-| xxd
+| exif                         |              | Allows reading and writing of EXIF metadata
+| strings                      | Text Strings | Finds chains of human readable characters within a file 
+| hexdump                      | Hex Dump     | Presents a three column ifnterface displaying line numbers, raw hex data and ASCII.
+| xxd                          |              | Creates a hex dump or can create a file from a hex dump
+| file                         | filename     | Will try to tell you what type of file something is
 
 ## Compression Tools
 | Command           | Compress                 | Extract                    | Notes
@@ -94,7 +93,7 @@ chmod 744 filename            # Set permission with octal (for rwx bits)
 | ping [ip/host]               | ping        | Sends ICMP packet, waits for response.  Is this server online?
 | netstat -ant                 | network status   | Lists all current network connections
 | netstat -lnp                 |                  | Lists all listening connections
-| nmap                         | network map      | Lists devices / ports on network.  DO NOT USE AT SCHOOL / SETS OF ALARMS
+| nmap                         | network map      | Lists devices / ports on network.  DO NOT USE AT SCHOOL / SETS OFF ALARMS
 | nc                           | net cat          | Connects to a TCP port on a devices to send / receive text (no authentication / encryption)
 | socat                        | stream cat       | Fancier (more complicated) version of netcat
 | wget [url]                   | www get          | Download file from internet
@@ -199,7 +198,7 @@ Common server applications you usually don't want
 I've listed the following ones that I think you might see / common
 
 * *crack: Password cracking tools
-* john: Password crackign
+* john: Password cracking
 * ncaptools, pcaputils, tcpdump: Network sniffing
 * wireshark: Network sniffing
 * nmap: Network mapping
