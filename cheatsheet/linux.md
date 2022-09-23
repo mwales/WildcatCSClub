@@ -57,6 +57,8 @@
 
 # Files / permissions
 
+| Command                      | Meaning      | What it does
+|------------------------------|--------------|----------------
 | ll                           | long list    | List file, file length, and file permissions (ls -l)
 | sudo command                 | Superuser do | Runs the command as root user (administration commands).  Requires sudo permissions
 | chmod permissions filename   | Channge mode | Changes read (+r), write (+w), execute (+x), or sticky bits (+s) for a file.  a=all, u=user, g=group, o=other
