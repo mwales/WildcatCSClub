@@ -1,0 +1,124 @@
+
+Homepage
+Crypto
+Index
+Glossary
+Enigma
+Hagelin
+Fialka
+Rotor
+Pin-wheel
+Voice
+Data
+Hand
+OTP
+EMU
+Mixers
+Phones
+Bulk
+FILL
+Codebooks
+Algorithms
+Cryptanalysis
+Countries
+Manufacturers
+Spy radio
+Burst encoders
+Intercept
+Covert
+Radio
+PC
+Telex
+Telephones
+People
+Agencies
+Manufacturers
+DONATE
+Publications
+Standards
+For sale
+Kits
+Shop
+News
+Events
+Wanted
+Contact
+About us
+Links
+	
+[Follow cryptomuseum on Twitter]   [Watch cryptomuseum on YouTube]   [Click to search this site]   	Click for homepage
+One-Time Pad   OTP
+The unbreakable code
+
+The One-Time Pad, or OTP is an encryption technique in which each character of the plaintext is combined with a character from a random key stream. Originally described in 1882 by banker Frank Miller (USA), it was re-invented in 1917 by Gilbert Vernam and Joseph Mauborgne. When applied correctly, the OTP provides a truely unbreakable cipher. It is named after the sheets of paper (pads) on which the key stream was usually printed. It also exists as One Time Tape (OTT).
+
+The image on the right shows a typical OTP booklet as it was used by agents of the former Soviet Union (USSR) during the 1960s. It consists of a stack of small very thin pages, each with a series of random 5-digit numbers on them. Each page was destroyed immediately after use.
+
+OTPs like this, were commonly used for sending coded messages via a Russian spy radio set such as the R-353, often in relation to the mysterious Numbers Stations on the short wave radio bands. The OTP booklet shown here is from the internal collection of the Dutch Intelligence Agency AIVD. 	   	
+Courtesy AIVD Netherlands [1]
+
+In this section, we shows a selection of OTP systems from a variety of sources and countries. Although the exact operating procedure varies between OTP systems, we will try to give examples whenever possible. Real OTP booklets are extremely rare as they were normally destroyed after use. The ones that did survive are generally in the hands of the intelligence and law enforcement agencies that used or confiscated them. Click any of the thumbnails below for further details.
+
+OTP systems on this website
+Small OTP booklet used by the USSR and the DDR during the Cold War
+USSR
+		
+Red and blue OTP booklets used by Czechoslovakia during the Cold War
+CZ
+		
+One-Time Tape (OTT), the teleprinter variant of the OTP
+OTT
+Theory
+The theory behind the OTP is that the encryption key has at least the same length as the actual message (i.e. the plaintext) and consists of truely random numbers. Each letter of the plaintext is 'added' to one element from the OTP using modulo-addition. This results in a ciphertext that has no relation with the plaintext when the key is unknown. At the receiving end, the same OTP is used to retrieve the original plaintext. For this to work, the following rules are mandatory:
+
+    The OTP should consist of truely random characters (noise).
+    The OTP (i.e. the key) should have the same length as the plaintext (or longer).
+    Only two copies of the OTP should exist.
+    The OTP should be used only once.
+    Both copies of the OTP are destroyed immediately after use. 
+
+Only if the above rules are strictly obeyed, the OTP is absolutely safe. Combining numbers with the plaintext manually, is a time-consuming task. It is therefore sometimes thought that OTPs are no longer practical. With modern computer technology however, the entire task of coding and decoding, can easily be automated, just like it was done in the past on teleprinter systems, but you should bear in mind that in practice there is no such thing as a secure personal computer.
+
+Although it may sound strange, manual OTP ciphers are still being used today (2015) for sending secret messages to agents (spies) via the Numbers Stations, or One-Way Voice Links (OWVL), that you may have heard on the short-wave radio bands. For a detailed description of the One-Time Pad Cipher and its history, complete with numerous examples, we would like to recommend the excellent paper Secure Communications with the One Time Pad Cipher, by Dirk Rijmenants [4].
+
+➤ Read now (off-site)
+
+Distribution
+The major problem with OTPs, is their distribution. A unique set of OTP booklets needs to be issued and distributed to each individual spy or agent abroad. As the OTP was destroyed immediately after use, sufficient and timely supply of new OTPs had to be guaranteed.
+
+OTPs were often smuggled into the country by using concealments like the one shown in the image on the right. In this case a common travel kit is cleverly converted into a concealment device by the East-German secret service.
+
+➤ More information 	   	
+Courtesy AIVD Netherlands [1]
+
+Concealment
+Another popular method for distributing and hiding OTP booklets, was by printing them at very small size and hiding them inside common objects like ballpoints, photoframes and, as shown in the image on the right, inside a walnut.
+
+The walnut concealment was very popular with KGB agents in Western Europe for many years, until it was discovered by the West-Germans.
+
+➤ Walnut concealment
+➤ Other concealments 	   	
+Walnut concealment device with two OTP booklets
+
+Variations
+OTP systems come in many forms and flavours. The Russian OTP shown above, contains only numbers. It requires the letters of a message to be converted into numbers, before applying the OTP. It is also possible however, to use an OTP based on letters.
+
+An example of such a letter-based OTP is shown in the image on the right. It's a stack of approx. 30 pages that are stapled together. The cover at the left, contains a folded alphabet table that is used in the translation process.
+
+Some OTPs are so small that they can easily be hidden inside a small object. More examples and detailed photographs below. Some OTPs are so small that they can be fitted inside a slide frame.
+
+All OTP photos in this section are courtesy Detlev Vreisleben (Germany) [2] and © Crypto Museum.
+
+	   	
+Letter-based OTP, courtesy Detlev Vreisleben [2]
+
+Compromise
+When used properly, OTPs are inherently safe. But when they are used incorrectly, e.g. by reusing them, they be a cryptologic nightmare. A good example of improper use is described by Matt Blaze in an article about the book Compromised by former FBI counterintelligence agent Peter Strzok [5]. He describes how secret OTP-encrypted messages were sent to Russian illegals 1 in the US, via a Numbers Station in Cuba which had a good coverage throughout the US.
+
+The station would broadcast message in morse code and voice 24 hours a day, interleaving real messages with dummy traffic, so that it was not revealed to an interceptor how often and how many real messages were sent. However, the FBI discovered (as did others) that dummy traffic could easily be discriminated from real traffic, as it did not contain the number 9. This was probably caused by a faillure of the random number generator used for the dummy traffic, or a bug in the software that handled it. With this knowledge, the FBI was able to correlate the real messages to the times that messages were decoded by a Russian illegal couple they had under surveillance. It eventually led to the arrest of an several Russian illegals in the US and Canada.
+
+    In the espionage trade, an illegal is a foreign person who lives in a country under a false or assumed identity, also known as a legend, for the purpose of spying. 
+
+
+Capture
+OTP booklets, such as the one shown above, have been captured during the Cold War by Western intelligence agencies on a number of occassions. One documented example is the capture of a Dutch man, who acted as an East-German agent in The Netherlands, in 1969. When he was finally exposed, the Dutch intelligence agency BVD (now: AIVD) found a partly used OTP booklet in his home, along with a fully 

@@ -1,0 +1,61 @@
+
+One-Time-Pad (Vernam's Cipher) Frequently Asked Questions
+
+    "A one-time pad isn't a cryptosystem: it's a state of mind." - Marcus Ranum
+
+
+A Russian One-time pad, captured by MI5 (click to enlarge)
+
+"As a practical person, I've observed that one-time pads are theoretically unbreakable, but practically very weak. By contrast, conventional ciphers are theoretically breakable, but practically strong." - Steve Bellovin
+Contents:
+
+    What is a one-time-pad?
+    Are one-time pads really unbreakable?
+    Can I reuse my pad?
+    Can I use a CDROM of music or a book?
+    Can I use the output of DES as a one-time pad?
+    Can I distribute my pads using another cryptosystem like PGP?
+    What are good sources of randomness?
+    What is a one-time pad?
+
+    A one-time pad is a cryptosystem invented by Vernam[1]. It's a very simple system and is unbreakable if used correctly. To use a one-time pad, you need 2 copies of the "pad" which is a block of random data equal in length to the message you wish to encode. The word "random" is used in its most literal possible sense here. If the data on the pad is not TRULY RANDOM, the security of the pad is reduced, potentially to near zero.
+
+    One-time pads are used in pairs. The more copies of a given pad, the greater the likelihood is that one may be captured, in which case the system is completely broken. One copy of the pad is kept by each user, and pads must be exchanged via a secure channel [e.g.: face to face on floppy disks]. The pad is used by XORing every bit of the pad with every bit of the original message. Once the message is encoded with the pad, the pad is destroyed and the encoded message is sent. On the recipient's side, the encoded message is XORed with the duplicate copy of the pad and the plaintext message is generated.
+
+    Think of a one-time pad as a 100% noise source which is used to mask the message. Since both parties of the communication have copies of the noise source they are the only people who can filter it out.
+    Are one-time pads really unbreakable?
+
+    Yes. But only if used properly. A one-time pad must be truly random data and must be kept secure in order to be unbreakable.
+
+    Consider if the one-time pad is used to encode the word "otter." If an attacker tries to brute force "guess" the contents of the pad, the message will "decrypt" into every possible combination of 6 characters (e.g.: "lemur." "badger" etc..) Since the pad is truly random there are no statistical methods that the attacker can hope to use to infer which combination is correct.
+    Can I reuse my pad?
+
+    Never, without reducing the security of the pad to something less than 100%, usually close to 0%. As long as the pads are unique and never reused there is nothing that can be used to attack the encryption using statistical analysis or pattern matching.
+
+    Wright[2] recounts a situation in which Soviet intelligence re-used one-time pads years after they had originally been distributed to field agents in Britain. The British noticed a pattern in some coded messages and began searching for "hits" through a complete archive of all encrypted communications intercepts. Over a period of years, various secret communications slowly were compromised. This operation took place under the legendary code word VENONA which was a closely held secret until recently. NSA has recently declassified parts of the story and put information about VENONA on the Web
+    Can I use a CDROM of music or a book?
+
+    No. CDROMs have lots of structure in them and are not random. The approach may work but it's not 100% secure like a real one-time pad. Books, for example, also have a lot of structure in them and are not random (otherwise, you would find them dull reading indeed).
+
+    Another problem with CDROMs is that the address of a bit on the CD is too small. If you take the (# of CD's published ever) times the (# of starting positions on one disk, in bits) you get a number small enough to exhaustively test.
+    Can I use the output of DES as a one-time pad?
+
+    No. If you do, it's not a one-time pad, it's DES and is only as strong as DES. This technique is popular in many cryptosystems and is called a "stream cipher." Fundamentally it is only as strong as whatever you used to generate the stream of pseudo-random data.
+    Can I distribute my pads using another cryptosystem like PGP?
+
+    If you do, it's only as secure as whatever you used to transmit the pad. When dealing with one-time pads your security is only as good as your weakest link, which is almost always something other than the pad.
+    What are good sources of randomness?
+
+    Feeding cosmic background radiation through one-way functions (such as MD5) is one approach. Remember that the one-way function is used, in such a case, to adjust the statistical properties of the data, not as super-encryption - so a lower-quality one-way function such as DES or MD5 is acceptable, even though they might not be good enough to use for encryption in their own right, anymore. Using radioactive decay is another option! The randomness of radioactive decay is an open question depending on whose cosmology you believe, which is another reason that feeding samples of background radiation through another permutation generator such as a one-way hash is a good idea. See Internet RFC 1750 for more information on generating random numbers.
+
+    Quality random numbers are a very important problem in cryptography. Not only must the number have the properties of a random number, it must be unpredictable. For example, the output of random() might appear to be statistically random, but is absolutely predictable if you know the seed that went into it. Many begining one-time-padders think that using the output of random() will give them something useable as a one-time-pad. In fact, it's only as strong as the seed that was used, which is often getpid() or time(). These are basic beginner flaws, but unfortunately, even commercial products containing cryptography have been known to contain such elementary weaknesses. (e.g., NetScape).
+    References
+        David Kahn, "The codebreakers"
+        Peter Wright, "Spy Catcher"
+        Internet RFC 1750 (generating random numbers)
+
+    Thanks to Carl Ellison (cme@acm.org) for technical review of this FAQ
+
+    Copyright(C) 1995 Marcus J. Ranum. All rights reserved. This document may be used, reprinted, and redistributed as is
+
+
