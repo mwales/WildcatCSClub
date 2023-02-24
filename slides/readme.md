@@ -9,5 +9,6 @@
 | Level 0x04 - Intro to C                  | [PDF](Level_0x04-Intro_to_C.pdf)                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTXICRonieFmsyTPNRw3k69GKvpJHBseDQK7hYciDU_gArhYuoxsGiDtwUCOlx7om0modpWKKORKuvF/pub?start=true&loop=false&delayms=10000)  |
 | Level 0x05 - More C                      | [PDF](Level_0x05-More_C.pdf)                      | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSmc8878yCJkCYKV08bIQGtAoXYFCivOiEbGsUY1ML2-dod5rT0kX5djU9oq7yjJkf7BR-exELoQkJR/pub?start=true&loop=false&delayms=10000)  |
 | Upcoming CTF / Competitions              |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdrhH87tQJX4Nc7wh_8hutYwZQ9MXnjJ9O8zkk9iGvZhtktQoPn2DZ0yJni1j6NsfXJOdvLw3C9sBt/pub?start=false&loop=false&delayms=10000) |
+| Cyber Quest 2023                         |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTbaa5Qb1RQZ-yzxTc58xCajBgzp4Z0wLVWiES_iEbmVSaIaNv2XMe610cXMj9D7bJeNanRY3C8AQO1/pub?start=false&loop=false&delayms=60000) |
 
 
