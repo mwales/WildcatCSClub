@@ -11,5 +11,6 @@
 | Level 0x06 - Containers / Tricks         | [PDF](Level_0x06-Containers_Tricks.pdf)           | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQMPaAkBRN9faOB3HJY8qY1li8YPJS5yqpqRXuFfs78Rs2k9k2FW0jADGnyuz-ib2S-hOMcUd2gob8C/pub?start=false&loop=false&delayms=60000) |
 | Upcoming CTF / Competitions              |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdrhH87tQJX4Nc7wh_8hutYwZQ9MXnjJ9O8zkk9iGvZhtktQoPn2DZ0yJni1j6NsfXJOdvLw3C9sBt/pub?start=false&loop=false&delayms=10000) |
 | Cyber Quest 2023                         |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTbaa5Qb1RQZ-yzxTc58xCajBgzp4Z0wLVWiES_iEbmVSaIaNv2XMe610cXMj9D7bJeNanRY3C8AQO1/pub?start=false&loop=false&delayms=60000) |
+| Code Quest 2023                          |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSpR72JuXDQPoGL2xBembzigClxMAyRPGO8WavDeLkODp3Bh1nFYyP3uucw2__o1FkfcaFSTf9C7e8-/pub?start=false&loop=false&delayms=10000) |
 
 
