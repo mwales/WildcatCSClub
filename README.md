@@ -21,10 +21,10 @@ Security Club), now Computer Science Club.
 
 # Sponsors and Support From
 
-![Florida Tech](sponsors/fit.png)
+[![Florida Tech](sponsors/fit.png)](https://www.fit.edu/)
 
-![Raytheon CODEX](sponsors/raytheon_codex.png)
+[![Raytheon CODEX](sponsors/raytheon_codex.png)](https://www.rtx.com/raytheon/what-we-do/cyber/who-we-are/codex)
 
-![RII](sponsors/rii.png)
+[![RII](sponsors/rii.png)](https://www.rtx.com/raytheon/what-we-do/cyber/who-we-are/codex)
 
-![Vector 35](sponsors/vector35.png)
+[![Vector 35](sponsors/vector35.png)](https://vector35.com/)
