@@ -2,10 +2,10 @@
 
 The start of a series of 3 progressively more difficult challenges.  Game has 2
 pseudorandom star wars characters have a battle.  The students are given the
-source code (python) for the game to exampine. You are supposed to guess
+source code (python) for the game to examine. You are supposed to guess
 the winner correctly 7 times in a row.
 
-The first game seeds the PRNG with a fixed value.  Thus everygame has the same
+The first game seeds the PRNG with a fixed value.  Thus every game has the same
 exact outcome
 
 ## Hints

@@ -1,8 +1,9 @@
 Name: magic_numbers
+
 Category:  forensics
 
 Attachments:
-[chal.zip](chal.zip)
+* [chal.zip](chal.zip)
 
 This challenge is a recreation of a true story...
 
@@ -28,15 +29,17 @@ Your flag is in there.... somewhere....
 Here is a hint though, most files have magic bytes (aka file signatures).  You
 can dump out the file contents by executing the following:
 
+```
 hexdump -C filename 
+```
 
 This wikipedia page has a list of many known magic bytes:
 
 https://en.wikipedia.org/wiki/List_of_file_signatures
 
-There is a linux program named file, that has these magic bytes built into it
+There is a linux program named __file__ (yeah, that is a silly name, this is un-google-able), that has these magic bytes built into it
 and it can probably help you. Put the correct extension on each file and open
-all the files to find the flag.
+all the files to find the flag. Try searching for "man file" to find out more information about it.
 
-[Solution Writeup - SPOLIERS](magic_bytes_writeup.md)
+[Solution Writeup - SPOILERS](magic_bytes_writeup.md)
 

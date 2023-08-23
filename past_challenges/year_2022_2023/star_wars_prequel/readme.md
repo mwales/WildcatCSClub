@@ -1,4 +1,5 @@
 Name: Star Wars: Prequels
+
 Category:  Cryptography
 
 Attachments:
@@ -29,9 +30,7 @@ computer and someone could predict what numbers were going to appear!
 To get the flag for this challenge, you need to predict the winner of my Star
 Wars battle game 7 times in a row!
 
-Connect to my battle game at the following port:
-
 The challenge was hosted online, but now you can try it out by running battle.py locally on your own machine. 
 
-[ Solution Write-up ](prequel_writeup.md)
+[ Solution Write-up - SPOILERS ](prequel_writeup.md)
 
