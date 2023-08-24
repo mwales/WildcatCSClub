@@ -3,9 +3,9 @@ Name: null_cipher_2
 Category:  programming
 
 Attachments:
-* [Null_Cipher.pdf](Null_Cipher.pdf)
-* [sample_input.txt](sample_input.txt)
-* [ciphertext.txt](ciphertext.txt)
+ * [Null_Cipher.pdf](Null_Cipher.pdf)
+ * [sample_input2.txt](sample_input2.txt)
+ * [ciphertext2.txt](ciphertext2.txt)
 
 Message:
 
@@ -21,5 +21,5 @@ The sample input generates the same sample output (mostly...) as the last
 problem did. You might need some other skills to finish this challenge, but I'm
 sure you can figure it out.
 
-[ Solution Write-up - CONTAINS SPOILERS ](null_cipher_writeup.md)
+[Solution Write-up - CONTAINS SPOILERS](null_cipher_2_writeup.md)
 
