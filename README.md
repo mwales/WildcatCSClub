@@ -25,6 +25,6 @@ Security Club), now Computer Science Club.
 
 [![Raytheon CODEX](sponsors/raytheon_codex.png)](https://www.rtx.com/raytheon/what-we-do/cyber/who-we-are/codex)
 
-[![RII](sponsors/rii.png)](https://www.rtx.com/raytheon/what-we-do/cyber/who-we-are/codex)
+[![RII](sponsors/rii.png)](https://www.researchinnovations.com/)
 
 [![Vector 35](sponsors/vector35.png)](https://vector35.com/)
