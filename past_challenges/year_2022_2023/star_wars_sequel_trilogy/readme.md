@@ -19,6 +19,14 @@ also offer mesages of ~~harrassment~~ encouragement!
 This challenge was hosted online, but now you can try it out by running battle.py
 on your own machine.
 
+You will probably need to install the __cowsay__ program before you can run
+the challenge, because it doens't normally come with default Ubuntu install.
+To install it, run the following command:
+
+```
+sudo apt-get install cowsay
+```
+
 <details>
 <summary>Click to reveal Hint # 1</summary>
 <b>cowsay</b> is a program that prints a little ASCII art on the screen with a text bubble
