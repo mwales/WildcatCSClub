@@ -4,8 +4,8 @@ Category:  programming
 
 Attachments:
 * [Null_Cipher.pdf](Null_Cipher.pdf)
-* [sample_input2.txt](sample_input2.txt)
-* [ciphertext2.txt](ciphertext2.txt)
+* [sample_input.txt](sample_input.txt)
+* [ciphertext.txt](ciphertext.txt)
 
 Message:
 
