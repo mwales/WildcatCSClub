@@ -1,12 +1,12 @@
 # WildcatCSClub
 
-* Presentations
-* CTF writeups
-* Notes
-* Practice Programming Problems
-
 Repository for artifacts for helping the WildCat CS Club (formerly Cyber
 Security Club), now Computer Science Club.
+
+[Prior year challenges (with sample writeups)](past_challenges/year_2022_2023) are available. This is only a subset
+of the 50 or so challenges the we worked on over the year.
+
+[Slides from this year and prior years](slides/readme.md) are also available.
 
 # Links to Competition Information
 
@@ -19,7 +19,11 @@ Security Club), now Computer Science Club.
 
 * [UCF High School Programming Tournament](https://hspt.ucfprogrammingteam.org/index.php/hspt/this-year-s-tournament)
 
-# Sponsors and Support From
+# Sponsors and Support
+
+Generous support was given to the club from the following organizations.  The kids didn't have to pay for anything out
+of pocket.  Sponsors provided loaner laptops, T-shirts for competitions, and [Binary Ninja](https://binary.ninja) 
+discounts and licenses, along with their time.
 
 [![Florida Tech](sponsors/fit.png)](https://www.fit.edu/)
 
