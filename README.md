@@ -8,16 +8,26 @@ of the 50 or so challenges the we worked on over the year.
 
 [Slides from this year and prior years](slides/readme.md) are also available.
 
-# Links to Competition Information
+# Links to local in-person competitions
 
 * [Lockheed Martin Code Quest Information](https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest.html)
 * [2023 Code Quest Pictures](https://lockheedmartin.smugmug.com/Code-Quest/Code-Quest-2023/FL-Orlando/)
 * [Lockheed Martin Cyber Quest Information](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest.html)
 * [2023 Cyber Quest Pictures](https://lockheedmartin.smugmug.com/CYBERQUEST/CYBERQUEST-2023/Orlando-FL/)
 
-## Other possible competition option for 2023-2024
+## Other possible in-person competition option for 2023-2024
 
 * [UCF High School Programming Tournament](https://hspt.ucfprogrammingteam.org/index.php/hspt/this-year-s-tournament)
+
+# Online Events
+
+* [Pico CTF](https://picoctf.org/) - Carnegie Mellon University
+
+* [TJ CTF](https://tjctf.org) - Thomas Jefferson High School for Sciene and Technology (#5 high school in the country per Forbes)
+
+# Why CTF?
+
+[![How the Best Hackers Learn Their Craft](sponsors/How_Hackers_Learn_YT_Thumb.png)](https://www.youtube.com/watch?v=6vj96QetfTg)
 
 # Sponsors and Support
 
