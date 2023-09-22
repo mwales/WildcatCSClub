@@ -3,8 +3,9 @@
 |  Subject                                 |    PDF                                            | Google Slides Web Link                                                                                                                                                                    |
 |------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Level 0x00 - Intro to Unix and shells    | [PDF](Level_0x00-Intro_to_shells.pdf)             | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSYm5iBH-bnUcK6-3WsV51GKMzwwFTtkswm3K-n6mp4QrAjbhfjZ_205W8EY3Bi7FBd1CtuOrGzadxo/pub?start=false&loop=false&delayms=60000) |
-| Level 0x01 - Intro to shells pt 2        | [PDF](Levle_0x01-Intro_to_shells_pt2.pdf)         | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSqY5z3YuN3BJmIZXXRmmK4dtjPU4WyhAPq4GS0NSZ_yXs099qN-Xvt5apuQsW7mNX_bZBf7WhlH3NR/pub?start=false&loop=false&delayms=60000) |
-|
+| Level 0x01 - Intro to shells pt 2        | [PDF](Level_0x01-Intro_to_shells_pt2.pdf)         | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSqY5z3YuN3BJmIZXXRmmK4dtjPU4WyhAPq4GS0NSZ_yXs099qN-Xvt5apuQsW7mNX_bZBf7WhlH3NR/pub?start=false&loop=false&delayms=60000) |
+| NES ROM Hacking Demonstration            | None                                              | None                                                                                                                                                                                      |
+| Level 0x02 - UDP and TCP                 | [PDF](Level_0x02-UDP_and_TCP.pdf)                 | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTjyjeT1q-fzhc1WXOamlGMexQScae-dZ85-eF5sA4tckuMni_0Ip5Gp9UrwwJSfUj-jxWsC1FbNG8m/pub?start=false&loop=false&delayms=60000) |
 
 
 # 2022 - 2023 School Year Presentations
