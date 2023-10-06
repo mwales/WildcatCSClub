@@ -6,7 +6,8 @@
 | Level 0x01 - Intro to shells pt 2        | [PDF](Level_0x01-Intro_to_shells_pt2.pdf)         | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSqY5z3YuN3BJmIZXXRmmK4dtjPU4WyhAPq4GS0NSZ_yXs099qN-Xvt5apuQsW7mNX_bZBf7WhlH3NR/pub?start=false&loop=false&delayms=60000) |
 | NES ROM Hacking Demonstration            | None                                              | None                                                                                                                                                                                      |
 | Level 0x02 - UDP and TCP                 | [PDF](Level_0x02-UDP_and_TCP.pdf)                 | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTjyjeT1q-fzhc1WXOamlGMexQScae-dZ85-eF5sA4tckuMni_0Ip5Gp9UrwwJSfUj-jxWsC1FbNG8m/pub?start=false&loop=false&delayms=60000) |
-
+| Octal Dump Challenge Walkthrough         | No slides, just whiteboard                        | [Writeup](../past_challenges/year_2023_2024/octal_dump/octal_dump_writeup.md)                                                                                                             |
+| Level 0x03 - Bitwise XOR                 |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSbpLfwQmFs7QNefUWjre9G5NOVvQJYg9zH9bSUZfHBGsWqXKhnvBsMT_5aOMAxCVuMJkTN1uIx1K2w/pub?start=false&loop=false&delayms=60000) |
 
 # 2022 - 2023 School Year Presentations
 
