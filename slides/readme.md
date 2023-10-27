@@ -10,6 +10,7 @@
 | Level 0x03 - Bitwise XOR                 | [PDF](Level_0x04-Programming_Tips.pdf)            | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSbpLfwQmFs7QNefUWjre9G5NOVvQJYg9zH9bSUZfHBGsWqXKhnvBsMT_5aOMAxCVuMJkTN1uIx1K2w/pub?start=false&loop=false&delayms=60000) |
 | Level 0x04 - Programming Tips            | [PDF](Level_0x04-Programming_Tips.pdf)            | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTKwTlWT3GkP2U6cyVAfojPHHbwQxZjuVJf-jXqRALbKr0hcjLupKLjOvO6dIgc3Ebg_pdD_9UvFg6s/pub?start=false&loop=false&delayms=60000) |
 | Cyber Security and TAS Speed Running     | [PDF](CS_and_VG_Career_Day.pdf)                   | [Google Slides](https://docs.google.com/presentation/d/1fIlFLJ4e5F40v4t2ZaU9L7j-v6CxYuXaCCJuglTcLi0/edit?usp=sharing)                                                                     |
+| Level 0x05 - Intro to C                  | [PDF](Level_0x05-Intro_to_C.pdf)                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRwX1EnmwBrptye1jEsGvtBGHVNTyS6i2wDjwzVlh5fd4FvMlYWJrSSPwyf9IOsueEQ4xfAPhocFQ34/pub?start=false&loop=false&delayms=60000) |
 
 # 2022 - 2023 School Year Presentations
 
