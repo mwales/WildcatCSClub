@@ -13,6 +13,8 @@
 | Level 0x05 - Intro to C                  | [PDF](Level_0x05-Intro_to_C.pdf)                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRwX1EnmwBrptye1jEsGvtBGHVNTyS6i2wDjwzVlh5fd4FvMlYWJrSSPwyf9IOsueEQ4xfAPhocFQ34/pub?start=false&loop=false&delayms=60000) |
 | Level 0x06 - More C / The Stack          | [PDF](Level_0x06-More_C_The_Stack.pdf)            | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSJ4KRRDkXZ__O9VlmsEBLvOT2TJMDzDEHKTWy3cbQ70Z40pgNPARtXGkqUFM5ZnnLSgVjS6RTJg4cg/pub?start=false&loop=false&delayms=60000) |
 | Level 0x07 - Structures and Pointers     | [PDF](Level_0x07-Structures_and_Pointers.pdf)     | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr48wSCaGdxqQ3OjlDwi1OZe94Op2BxKUuTUFfCHDzty9yZOpt1hUTj1rLgeueAD4X2wLj2gwSIIQi/pub?start=false&loop=false&delayms=60000) |
+| Level 0x08 - Code Quest
+| Level 0x08 - Binary Ninja                |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRhPx_FZPD1q9VQZN-2ziifHF2ScRlNMqESoGJKjqBd5CxYxRXOyPKZbqygZjz7KpGTtUpIhwTDuL7L/pub?start=false&loop=false&delayms=60000) |
 
 # 2022 - 2023 School Year Presentations
 
