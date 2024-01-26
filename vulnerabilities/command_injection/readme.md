@@ -14,7 +14,8 @@ other various shell syntax to call additional programs.
 // Command Injection
 // https://owasp.org/www-community/attacks/Command_Injection
 // Author: Weilin Zhong
-// Contributor(s): Wichers, Amwestgate, Rezos, Clow808, KristenS, Jason Li, Andrew Smith, Jmanico, Tal Mel, kingthorin
+// Contributor(s): Wichers, Amwestgate, Rezos, Clow808, KristenS,
+//                 Jason Li, Andrew Smith, Jmanico, Tal Mel, kingthorin
 
 #include <stdio.h>
 #include <unistd.h>
