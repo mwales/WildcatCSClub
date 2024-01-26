@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// compile with -fno-stack-protector
+
 void functionWithStringsOnStack()
 {
 	char firstName[0x18];
