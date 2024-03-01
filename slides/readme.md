@@ -20,6 +20,7 @@
 | Level 0x0a - Binary Ninja                | [PDF](Level_0x0a-Binary_Ninja.pdf)                | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQVEZqrefoDbZSFt6sEN9PWTMGwuegXg0a0YFczYB0So_AOlMPoxTQtfbby-IS_ymCgVaVhS4nlHS53/pub?start=false&loop=false&delayms=60000) |
 | Level 0x0b - Hashing                     | [PDF](Level_0x0b-Hashing.pdf)                     | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIct96iP_6l3GMffCZCv3KVRGJSkmj4GUbR_LZcnknmCdqRjKjtrMMLPbLYGaTaHzGdtjLhY-snaM_/pub?start=false&loop=false&delayms=60000) |
 | Level 0x0c - Code Quest Strategies       |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vT2xBu6c5AZH_xC2oebFI5mRaZEO3hV0kIoZeme5mmUwOlUyGieICEtJoDRs-vDfpTN5dz6HaD-gIBb/pub?start=false&loop=false&delayms=60000) |
+| Level 0x0d - Keeping Secrets             | [PDF](Level_0x0d-Keeping_Secrets.pdf)             | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-qWX4IogLc6rOEcL1sPJGvWil0_qiG9h4OSZL1IAXPZIwXU2UHxrT417iObr9aIcTR6j7o4SZO2Es/pub?start=false&loop=false&delayms=60000) |
 
 | Level 0xff - Internships and Scholarships |                                                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIIhUiNYyBM3heN9T5P4RZdxGvj1JJ2umhAIMZvv6TfavqFI6knEb9V31j5Q7rerlmX1TU2HEs39Wl/pub?start=false&loop=false&delayms=60000) |
 
