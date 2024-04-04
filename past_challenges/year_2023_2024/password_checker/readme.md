@@ -108,4 +108,4 @@ into a single long string of characters?
 
 # Partial Writeup
 
-[Partial Writeup for all 3 challenges - SPOILERS](parital_writeup/partial_writeup_password_check.md)
+[Partial Writeup for all 3 challenges - SPOILERS](partial_writeup/partial_writeup_password_check.md)
