@@ -22,7 +22,7 @@
 | Level 0x0c - Code Quest Strategies       |                                                   | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vT2xBu6c5AZH_xC2oebFI5mRaZEO3hV0kIoZeme5mmUwOlUyGieICEtJoDRs-vDfpTN5dz6HaD-gIBb/pub?start=false&loop=false&delayms=60000) |
 | Level 0x0d - Keeping Secrets             | [PDF](Level_0x0d-Keeping_Secrets.pdf)             | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ-qWX4IogLc6rOEcL1sPJGvWil0_qiG9h4OSZL1IAXPZIwXU2UHxrT417iObr9aIcTR6j7o4SZO2Es/pub?start=false&loop=false&delayms=60000) |
 | Level 0x0e - Life and File Permissions   | [PDF](Level_0x0e-Life_Permissions.pdf)            | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTB7xrFIkM4NvamMi2bMIKUTbouOyiit3m23Pi_tlDVwMMxFoGzcbWqvt2hraeWYkzC_Znj4TM3Itof/pub?start=false&loop=false&delayms=60000) |
-
+| Level 0x0f - XZ Backdoor and Lockpicking | [PDF](Level_0x0f-Lock_Picking.pdf)                | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vREAleq-HXc9ReGN5EQPnb2ZWQx0YXzZubuEZlH7FYw5op47g3NvEjWqCZEJsxxbUmXo496_bhFX2YH/pub?start=false&loop=false&delayms=60000) |
 | Level 0xff - Internships and Scholarships |                                                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIIhUiNYyBM3heN9T5P4RZdxGvj1JJ2umhAIMZvv6TfavqFI6knEb9V31j5Q7rerlmX1TU2HEs39Wl/pub?start=false&loop=false&delayms=60000) |
 
 
