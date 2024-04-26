@@ -14,6 +14,8 @@ of the 50 or so challenges the we worked on over the year.
 * [2023 Code Quest Pictures](https://lockheedmartin.smugmug.com/Code-Quest/Code-Quest-2023/FL-Orlando/)
 * [Lockheed Martin Cyber Quest Information](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest.html)
 * [2023 Cyber Quest Pictures](https://lockheedmartin.smugmug.com/CYBERQUEST/CYBERQUEST-2023/Orlando-FL/)
+* [2024 Code Quest Pictures](https://lockheedmartin.smugmug.com/Code-Quest/2024-Code-Quest/FL-Orlando)
+* [2024 Cyber Quest Pictures](https://lockheedmartin.smugmug.com/CYBERQUEST/Cyber-Quest-2024/FL-Orlando)
 
 ## Other possible in-person competition option for 2023-2024
 
