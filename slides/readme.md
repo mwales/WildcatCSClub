@@ -24,6 +24,7 @@
 | Level 0x0e - Life and File Permissions   | [PDF](Level_0x0e-Life_Permissions.pdf)            | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTB7xrFIkM4NvamMi2bMIKUTbouOyiit3m23Pi_tlDVwMMxFoGzcbWqvt2hraeWYkzC_Znj4TM3Itof/pub?start=false&loop=false&delayms=60000) |
 | Level 0x0f - XZ Backdoor and Lockpicking | [PDF](Level_0x0f-Lock_Picking.pdf)                | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vREAleq-HXc9ReGN5EQPnb2ZWQx0YXzZubuEZlH7FYw5op47g3NvEjWqCZEJsxxbUmXo496_bhFX2YH/pub?start=false&loop=false&delayms=60000) |
 | Level 0x10 - SCM and Git                 | [PDF](Level_0x10-SCM_and_git.pdf)                 | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRs_ibIXLqAQSukjdDR6hkscvz1A-33dog5rV4UXJ3Dc_Kg1a2OnPmD0KU-rstPWNYcZx1CXAosLvcL/pub?start=false&loop=false&delayms=60000) |
+| Level 0x11 - Future Work                 | [PDF](Level_0x11-Future_Work.pdf)                 | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRkKpWla3w9hFLPf3Lg7ganL8sr5Rt7-Si0X0CCqzYgYU4bU8gntRE4weQhZBsmte1bLA-dipIkQTl1/pub?start=false&loop=false&delayms=60000) |
 | Level 0xff - Internships and Scholarships |                                                  | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIIhUiNYyBM3heN9T5P4RZdxGvj1JJ2umhAIMZvv6TfavqFI6knEb9V31j5Q7rerlmX1TU2HEs39Wl/pub?start=false&loop=false&delayms=60000) |
 
 
